@@ -1,0 +1,2 @@
+This file shows the Exploratory Data Analysis on the Motorq data about the Vehicles and their Fuel Economies. The variations of vehicles with their average speeds, average fuel consumption and fuel consumption versus the speed changes is also represented.
+Finally it calculates the Fuel Economy an dthen compares with the rated Miles per Gallons Value to find the difference. It can be noted that the actual fuel economy is higher than the rated on, thus representing a positive outcome.
